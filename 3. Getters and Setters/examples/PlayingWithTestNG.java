@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertEquals;
 
-public class PlayingWithJunit {
+public class PlayingWithTestNG {
 
 	@Test
 	void testName() throws Exception {
