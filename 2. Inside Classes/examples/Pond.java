@@ -10,17 +10,18 @@ public class Pond {
 
 		mobyDuck.waddle();
 		mobyDuck.waddle();
-		mobyDuck.waddle();
-		mobyDuck.waddle();
-		mobyDuck.waddle();
-		mobyDuck.waddle();
-		mobyDuck.waddle();
+//		mobyDuck.waddle();
+//		mobyDuck.waddle();
+//		mobyDuck.waddle();
+//		mobyDuck.waddle();
+//		mobyDuck.waddle();
 
 		wolfgangDuck.waddle();
 
 		System.out.println(mobyDuck);
 		
 		// Exercise: Make the Duck quack
+		mobyDuck.quack();
 		
 	}
 

@@ -30,7 +30,7 @@ public class Duck {
 	}
 
 	void quack() {
-		System.out.println("quack quack");
+		System.out.println(this.name+" quack quack");
 		try {
 			AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(new File(
 					"sounds/quack.wav").toURI().toURL());
