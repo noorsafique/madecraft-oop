@@ -34,6 +34,8 @@ public class Cat {
 		/* Do the following things without changing the Cat class */
 
 		// 1. Make the Cat meow
+		Cat cat = new Cat("tomy");
+		cat.meow();
 		
 		// 2. Get the Cat to print it's name
 

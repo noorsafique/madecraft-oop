@@ -1,8 +1,8 @@
 package exercises;
 
-import static org.junit.Assert.*;
 
-import org.junit.Test;
+import static org.testng.Assert.*;
+import org.testng.annotations.Test;
 
 /**
  * To make these tests pass, you will need to create a Minion class with the member variables below.
